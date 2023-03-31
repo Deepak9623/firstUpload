@@ -8,7 +8,7 @@ public class MyController {
 	
 	@GetMapping("/home")
 	public String home() {
-		return "this is home page";
+		return "This is home page";
 	}
 
 }
