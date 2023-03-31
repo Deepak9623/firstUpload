@@ -11,8 +11,8 @@ public class MyController {
 		return "This is home page!!!";
 		
 	}
-	@GetMapping("/home3")
-	public String home3() {
+	@GetMapping("/home4")
+	public String home4() {
 		return "This is login branch";
 		
 	}
