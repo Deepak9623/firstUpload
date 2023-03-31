@@ -13,7 +13,7 @@ public class MyController {
 	}
 	@GetMapping("/home1")
 	public String home1() {
-		return "This is home page!!!";
+		return "This is ";
 		
 	}
 	
