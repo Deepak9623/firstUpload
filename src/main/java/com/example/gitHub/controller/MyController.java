@@ -10,5 +10,6 @@ public class MyController {
 	public String home() {
 		return "This is home page!!!";
 	}
+	
 
 }
